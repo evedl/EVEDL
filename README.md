@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola Mundo 👋
 
 <!--
 **evedl/EVEDL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hola, soy eve y me gusta programar!
+### Soy Evelyn, me gusta programar páginas web y aprender sobre la programación! 💻👩‍💻
